@@ -29,7 +29,7 @@ We have created three dashboards - Summary, Overview and Details.
    
 ### EDA
 ---
-1. What is the total number of laon applications , avg interest rate and the toal amount received.
+1. What is the total number of laon applications , avg interest rate and the total amount received.
 2. Number of good loans vs number of bad loans.
 3. Number of loans by House Ownership.
 4. For which purpose most people take a loan.
@@ -38,6 +38,5 @@ We have created three dashboards - Summary, Overview and Details.
 ---
 
 
-### Recommendations
----
+
 
