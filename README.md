@@ -1,4 +1,5 @@
 # Bank-Loan-Report
+![Summary](https://github.com/RjCricket/Bank-Loan-Report-Tableau/assets/118374392/59d6e7bf-9e59-4f1f-adaf-4b7c71a5a269)
 
 ## Table Contents
 ---
